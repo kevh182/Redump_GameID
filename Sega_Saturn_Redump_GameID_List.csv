@@ -1,4 +1,4 @@
-Redump_Name,Hardware_Identifier,Marker_ID,Product_Number,Version,Release_Date,CD_Number,Region,Compatible_Peripherals,Game_Title
+Redump_Name,Hardware_Identifier,Marker_ID,Product_Number,Version,Build_Date,CD_Number,Region,Compatible_Peripherals,Game_Title
 2do Aru Koto wa Sando R (Japan),SEGA SEGASATURN,SEGA TP T-68,T-6802G,V1.003,19960307,CD-1/1,J,J,SAND R
 2Tax Gold (Japan),SEGA SEGASATURN,SEGA TP T-43,T-4305G, V1.002,19961122,CD-1/1,J,J,NITAX_GOLD                                                                                         For JAPAN
 3D Baseball (USA),SEGA SEGASATURN,SEGA TP T-159,T-15906H,V1.002,19961108,CD-1/1,U,JAT,3D BASEBALL
