@@ -1,4 +1,4 @@
-Redump_Name,Hardware_ID,Maker_ID,Device_Info,Area_Symbols,Peripherals,Product_Number,Version,Release_Date,Boot_Filename,Company_Short,Game_Title,Playable_Regions
+Redump_Name,Hardware_ID,Maker_ID,Device_Info,Area_Symbols,Peripherals,Product_Number,Version,Build_Date,Boot_Filename,Company_Short,Game_Title,Playable_Regions
 "18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)",SEGA SEGAKATANA,SEGA ENTERPRISES,GD-ROM1/1,E,0799A10,MK-5106450,V1.700,20010430,1ST_READ.BIN,SEGA ENTERPRISES,18WHEELER,Europe
 18 Wheeler - American Pro Trucker (Japan),SEGA SEGAKATANA,SEGA ENTERPRISES,GD-ROM1/1,J,0799A10,HDR-0080,V1.006,20000909,1ST_READ.BIN,SEGA ENTERPRISES,18WHEELER AMERICAN-PRO-TRUCKER,Japan/Asia
 18 Wheeler - American Pro Trucker (USA),SEGA SEGAKATANA,SEGA ENTERPRISES,GD-ROM1/1,U,0799A10,MK-51064,V1.500,20010423,1ST_READ.BIN,SEGA ENTERPRISES,18WHEELER,USA/Canada
