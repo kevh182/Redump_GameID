@@ -1,2 +1,2 @@
-Handy game lists with matching GameIDs
+Handy game lists with their matching GameIDs.<br>
 https://kevh182.github.io/gameid-viewer/
