@@ -1,4 +1,5 @@
-Redump_Name,Game_Title,Product_Number (GameID),Version,Build_Date,Playable_Regions,Company_Short,Hardware_ID,Maker_ID,Device_Info,Area_Symbols,Peripherals,Boot_Filename
+Redump_Name,Game_Title,Product_Number (GameID),Version,Release_Date,Playable_Regions,Company_Short,Hardware_ID,Maker_ID,Device_Info,Area_Symbols,Peripherals,Boot_Filename
+09 Chairs (Japan),09CHAIRES,HDR-0030,V1.050,19990625,Japan/Asia,SEGA ENTERPRISES,SEGA SEGAKATANA,SEGA ENTERPRISES,A75D MIL CD1/1,J,2799810,1MILSFD.BIN
 "18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)",18WHEELER,MK-5106450,V1.700,20010430,Europe,SEGA ENTERPRISES,SEGA SEGAKATANA,SEGA ENTERPRISES,GD-ROM1/1,E,0799A10,1ST_READ.BIN
 18 Wheeler - American Pro Trucker (Japan),18WHEELER AMERICAN-PRO-TRUCKER,HDR-0080,V1.006,20000909,Japan/Asia,SEGA ENTERPRISES,SEGA SEGAKATANA,SEGA ENTERPRISES,GD-ROM1/1,J,0799A10,1ST_READ.BIN
 18 Wheeler - American Pro Trucker (USA),18WHEELER,MK-51064,V1.500,20010423,USA/Canada,SEGA ENTERPRISES,SEGA SEGAKATANA,SEGA ENTERPRISES,GD-ROM1/1,U,0799A10,1ST_READ.BIN
